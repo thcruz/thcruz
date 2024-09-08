@@ -1,8 +1,8 @@
-# Olá, eu sou o @thcruz 👋
+# Olá, Bem-vindo ao meu perfil!👋
 
 ![Imagem de Rede Neural Convolucional](https://img.odcdn.com.br/wp-content/uploads/2023/05/rede-neural-convolucional-1536x864.jpg)
 
-Bem-vindo ao meu perfil! Sou um profissional apaixonado por qualidade e análise de dados com um sólido background em ciência de dados. Meu trabalho é garantir a excelência e a precisão dos produtos e processos, utilizando minha expertise para transformar dados em insights valiosos.
+Sou Thiago Faria. Tenho formação em Gestão da Qualidade e Administração, MBA em Gestão da Qualidade e Produção, pós-graduação em Engenharia da Qualidade e pós-graduação em Big Data e Business Intelligence. Atualmente sou graduando em Estatística. Possuo experiência como desenvolvedor, com habilidades em SQL, Python, Excel, Power BI e Minitab. Minhas atividades vão além da minha formação acadêmica. ⚡ Durante minha trajetória, estive envolvido em diversos trabalhos organizacionais, como clubes, hackathons, projetos e workshops.
 
 ## 🚀 Sobre Mim
 
