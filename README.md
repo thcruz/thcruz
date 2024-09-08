@@ -36,7 +36,6 @@ Com foco em entregar soluções precisas e orientadas por dados, adquiri experti
 <a href="https://medium.com/@thiagocfaria1983" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@thiagocfaria1983" height="30" width="40" /></a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thcruz&label=Profile%20views&color=0e75b6&style=flat" alt="thcruz" /> </p>
 
 
 
