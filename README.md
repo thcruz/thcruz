@@ -1,4 +1,6 @@
 Olá, eu sou o @thcruz 👋
+
+
 Bem-vindo ao meu perfil! Sou um profissional apaixonado por qualidade e análise de dados com um sólido background em ciência de dados. Meu trabalho é garantir a excelência e a precisão dos produtos e processos, utilizando minha expertise para transformar dados em insights valiosos.
 
 🚀 Sobre Mim
@@ -19,3 +21,5 @@ Modelo Preditivo de Churn: Implementação de um modelo de machine learning para
 LinkedIn: linkedin.com/in/seu-perfil
 Email: seu.email@example.com
 Sinta-se à vontade para explorar meus repositórios e entrar em contato se tiver alguma pergunta ou quiser colaborar em projetos interessantes!
+
+
