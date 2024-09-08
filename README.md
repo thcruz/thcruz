@@ -1,4 +1,5 @@
-# Olá, eu sou o Thiago Faria👋
+<h1 align="center">Olá 👋, Eu sou Thiago Faria</h1>
+<h3 align="center">Uso dados para solucionar problemas e contar histórias.</h3>
 
 ![Imagem de Rede Neural Convolucional](https://img.odcdn.com.br/wp-content/uploads/2023/05/rede-neural-convolucional-1536x864.jpg)
 
@@ -29,8 +30,7 @@ Com foco em entregar soluções precisas e orientadas por dados, adquiri experti
 - **LinkedIn**: [linkedin.com/in/thiago-faria-182531138](https://www.linkedin.com/in/thiago-faria-182531138/)
 - **Email**: thiagocfaria@yahoo.com.br
 
-<h1 align="center">Olá 👋, Eu sou Thiago Faria</h1>
-<h3 align="center">Uso dados para solucionar problemas e contar histórias.</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thcruz&label=Profile%20views&color=0e75b6&style=flat" alt="thcruz" /> </p>
 
